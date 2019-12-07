@@ -1,2 +1,4 @@
 # hello-world
-Description of the repository
+This is first Repository
+Hi
+This is Uzair
